@@ -33,4 +33,14 @@ Randal Hyde definition of Great Code:
 
 - NUMERIC REPRESENTATION.
   Write Great Code requires understan how compueters represent numbers.
+
+  Understand the difference between a number and the representation of that number.
+
+  A number is an intangible, abastrac concept use to denote quantity.
+
+- NUMBERING SYSTEMS.
+  The Decimal Positional Numbering System.
+
+  
+
   
